@@ -1,0 +1,1 @@
+# COVIDx_lung_seg
